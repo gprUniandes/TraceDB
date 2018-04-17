@@ -1,0 +1,3 @@
+Heterogeneous 1 - Antenas dipolo hertziano separadas a 15cm del suelo
+Heterogeneous 2 - Antenas GSSI separadas a 15cm del suelo
+Heterogeneous 2 - Antenas MALA separadas a 15cm del suelo
