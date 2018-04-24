@@ -1,0 +1,31 @@
+#title: Heterogeneous Soil
+#domain: 0.5 0.5 0.5
+#dx_dy_dz: 0.002 0.002 0.002
+
+#time_window: 20e-9
+#waveform: ricker 1 1.5e9 my_ricker
+#hertzian_dipole:  z 0.05 0.25 0.40 my_ricker
+#rx: 0.1 0.25 0.40
+
+#src_steps: 0.05 0 0
+#rx_steps: 0.05 0 0
+
+
+#soil_peplinski: 0.1 0.9 2.0 2.66 0.24 0.25 my_soil
+#fractal_box: 0 0 0 0.5 0.5 0.35 1.5 1 1 1 10 my_soil my_soil_box 1
+
+add_surface_roughness: 0 0 0.35 0.5 0.5 0.35 1.5 1 1 0.25 0.35 my_soil_box 1
+#box: 0.0 0.0 0.025 0.5 0.5 0.05 pec
+
+#add_grass: 0 0 0.35 0.5 0.5 0.35 1 0.001 0.4 10000 my_soil_box 1
+
+geometry_view: 0 0 0 0.5 0.5 0.5 0.002 0.002 0.002 heterogenPaper_DIP_Veg_Suelo_Placa n
+
+
+
+
+
+
+
+
+
